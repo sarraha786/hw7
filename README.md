@@ -1,2 +1,2 @@
-# hw7-2022
-Starter Code for HW7 - JavaScript basics with Video
+# Javascript web styling
+Styling a video with js to add buttons and other various features
